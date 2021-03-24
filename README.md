@@ -12,5 +12,8 @@ dataset, the default facemask resulted in inaccurate defacing results. Inverting
 workflow produced more accurate defacing results. The decision to use the default facemask as is or not would depend on the dataset
 in question. The helper notebook uses the modified workflow but it can also be used to run without any modifications with some 
 edits to the code. The facemask used by default can be found within the package installation. In my case, it was 
-`/home/arshithab/env/pydeface/lib/python3.7/site-packages/pydeface/data`
-`<path/to/env/with/pydeface/installation>/lib/python3.7/site-packages/pydeface/data`
+
+```bash
+/home/arshithab/env/pydeface/lib/python3.7/site-packages/pydeface/data/facemask.nii.gz
+<path/to/env/with/pydeface/installation>/lib/python3.7/site-packages/pydeface/data/facemask.nii.gz
+```
