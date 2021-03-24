@@ -3,7 +3,7 @@ Scripts with functions that could be re-used for future BIDS formatting efforts
 
 ## pydeface 
 
-- I have a conda environment with pydeface and it's dependencies installed on it. But using your base conda environment while 
+- I have a conda environment with just pydeface and it's dependencies installed on it. Just to keep things separate and there are some advantages in terms of processing speed. But using your base conda environment while 
 installing pydeface will work just fine but make sure to change/edit the code within the `pydeface-helper-notebook` according to 
 your installation location. 
 
