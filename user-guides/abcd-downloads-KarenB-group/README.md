@@ -23,7 +23,7 @@ contains the pre-packaged data distributed by ABCD group through NDA.
 │   └── nda_aws_token_generator.cpython-39.pyc
 └── README.md
 ```
-- `downloads` contains genome, pubertal and structural imaging data in their respective directories
+- **`downloads`** contains genome, pubertal and structural imaging data in their respective directories
     - everything within `downloads` directory should be considered raw data (raw data includes minimally processed 
       structural imaging data as well) 
     - genomic data was downloaded as zip files; these have been extracted. However, zipped files have been preserved for 
@@ -33,7 +33,7 @@ contains the pre-packaged data distributed by ABCD group through NDA.
     - pubertal measures are tab separated text files. These data structures found by searching for the term (using cmd+F)
       `puberty` and `pubertal` in their filenames or descriptions.
         
-- `nda_packages` data structures (with s3 file locations) that were preprocessed to download data available in `downloads` 
+- **`nda_packages`** data structures (with s3 file locations) that were preprocessed to download data available in `downloads` 
   sub-directory.
     - The third annual curated ABCD Data Release 3.0 (by ABCD Study Group) can be found here `./ABCDStudyNDA`. 
     Following is a brief description of the curated data release as found on 
@@ -53,7 +53,7 @@ contains the pre-packaged data distributed by ABCD group through NDA.
   > Full details are in the Release Notes for Data Release 3.0.
   > ![](../images/release3summary.png)
   
-- `code` contains the python notebook and scripts used to generate aws tokens. These were used to preprocess 
+- **`code`** contains the python notebook and scripts used to generate aws tokens. These were used to preprocess 
   data structures before downloading data.
   
 
