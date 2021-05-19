@@ -1,6 +1,6 @@
 ## Directory Navigation Info 
 
-Current directory contains the ABCD Release 3.0 structural imaging data, genomic data and pubertal measures as requested 
+Current directory (i.e., `/data/NIMH_scratch/abcd-downloads-KarenB-group` on biowulf) contains the ABCD Release 3.0 structural imaging data, genomic data and pubertal measures as requested 
 by Karen F. Berman's group. In case users would like to access additional pubertal and developmental measures other 
 than the ones available on  `./downloads/pubertal`, they can do so by looking up on `./nda_packages/ABCDStudyNDA` which 
 contains the pre-packaged data distributed by ABCD group through NDA.  
