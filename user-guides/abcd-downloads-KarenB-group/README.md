@@ -37,7 +37,8 @@ contains the pre-packaged data distributed by ABCD group through NDA.
   sub-directory.
     - The third annual curated ABCD Data Release 3.0 (by ABCD Study Group) can be found here `./ABCDStudyNDA`. 
     Following is a brief description of the curated data release as found on 
-      [ABCDStudy page](https://abcdstudy.org/scientists/data-sharing/)
+    
+    
     
 
   >The third annual curated ABCD Data Release 3.0 is available now on the NIMH Data Archive. 
